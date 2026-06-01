@@ -8,7 +8,7 @@ document.getElementById("bodySum").innerHTML=`
         <div id="sumForm"></div>
     </main>
 `
-document.getElementById("headerID").innerHTML = `<div class="RadBoard"><a href="https://github.com/m161awm2/DCoutSide"target="_blank"><img src="../images/asdf.png"><span>아웃사이드<span id="logoSm"> 일마다 최고의 게시글을 작성 해드리겠습니다!</span></span></a></div>`;
+document.getElementById("headerID").innerHTML = `<div class="RadBoard"><a href="https://github.com/m161awm2/DCoutSide" target="_blank"><img src="./images/asdf.png" alt="DCoutSide logo"><span>아웃사이드<span id="logoSm"> 일마다 최고의 게시글을 작성 해드리겠습니다!</span></span></a></div>`;
 document.getElementById("empty").innerHTML = `아직 게시글이 존재하지 않습니다.`
 document.getElementById("sumForm").innerHTML = `            <form id = "myForm">
 	                <input id="inputName"placeholder="닉네임을 입력하세요" required>
